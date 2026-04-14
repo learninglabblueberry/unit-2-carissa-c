@@ -1,0 +1,1302 @@
+[
+  {
+    "radical": "人",
+    "variations": "亻",
+    "pinyin": "ren2",
+    "meaning": "human, person, people",
+    "examples": [
+      "今仁休位他"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: human, person, people. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) Pictograph hint: A person standing with arms stretched out.\n(2) Constraint: The person's arms are not touching the body, unlike the component 八.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) Pictograph hint: A person standing with arms stretched out.\n(2) Constraint: The person's arms are not touching the body, unlike the component 八.",
+    "image_file": "images/radical_人.png"
+  },
+  {
+    "radical": "口",
+    "variations": "",
+    "pinyin": "kou3",
+    "meaning": "mouth, opening",
+    "examples": [
+      "古可名告知"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: mouth, opening. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A mouth-like shape that always encloses characters, distinguishing it from similar components that do not enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A mouth-like shape that always encloses characters, distinguishing it from similar components that do not enclose other shapes.",
+    "image_file": "images/radical_口.png"
+  },
+  {
+    "radical": "土",
+    "variations": "",
+    "pinyin": "tu3",
+    "meaning": "earth",
+    "examples": [
+      "在地型城地"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: earth. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A horizontal line with a vertical line directly underneath it. \n(2) The bottom stroke is longer than the top stroke, distinguishing it from a similar-looking component that has the opposite proportion.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A horizontal line with a vertical line directly underneath it. \n(2) The bottom stroke is longer than the top stroke, distinguishing it from a similar-looking component that has the opposite proportion.",
+    "image_file": "images/radical_土.png"
+  },
+  {
+    "radical": "女",
+    "variations": "",
+    "pinyin": "nv3",
+    "meaning": "woman, female",
+    "examples": [
+      "好妄始姓安"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: woman, female. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A person with long hair standing upright.\n(2) The long hair is a distinguishing feature that prevents confusion with similar-looking components that represent different meanings.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A person with long hair standing upright.\n(2) The long hair is a distinguishing feature that prevents confusion with similar-looking components that represent different meanings.",
+    "image_file": "images/radical_女.png"
+  },
+  {
+    "radical": "心",
+    "variations": "忄，⺗",
+    "pinyin": "xin1",
+    "meaning": "heart",
+    "examples": [
+      "必忙忘性想"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: heart. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A heart shape with a straight line across the top, NOT like a box shape.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A heart shape with a straight line across the top, NOT like a box shape.",
+    "image_file": "images/radical_心.png"
+  },
+  {
+    "radical": "手",
+    "variations": "扌，龵",
+    "pinyin": "shou3",
+    "meaning": "hand",
+    "examples": [
+      "持掌打抱押"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: hand. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A hand reaching out with fingers spread wide, with the thumb clearly separate and not touching the other fingers.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A hand reaching out with fingers spread wide, with the thumb clearly separate and not touching the other fingers.",
+    "image_file": "images/radical_手.png"
+  },
+  {
+    "radical": "日",
+    "variations": "",
+    "pinyin": "ri4",
+    "meaning": "sun, day",
+    "examples": [
+      "白百明时晩"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: sun, day. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A circle with a horizontal line through the center.\n(2) The line is positioned higher up in the circle, not at the center, to differentiate it from similar-looking components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A circle with a horizontal line through the center.\n(2) The line is positioned higher up in the circle, not at the center, to differentiate it from similar-looking components.",
+    "image_file": "images/radical_日.png"
+  },
+  {
+    "radical": "月",
+    "variations": "",
+    "pinyin": "yue4",
+    "meaning": "moon, month",
+    "examples": [
+      "有服青朝明"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: moon, month. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A crescent moon shape with a curved line. \n(2) The curved line should not enclose any other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A crescent moon shape with a curved line. \n(2) The curved line should not enclose any other shapes.",
+    "image_file": "images/radical_月.png"
+  },
+  {
+    "radical": "木",
+    "variations": "",
+    "pinyin": "mu4",
+    "meaning": "tree",
+    "examples": [
+      "板相根本林"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: tree. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A vertical line with two diagonal lines extending from the top, resembling the shape of a tree.\n(2) The diagonal lines are shorter than the vertical line and do not enclose any other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A vertical line with two diagonal lines extending from the top, resembling the shape of a tree.\n(2) The diagonal lines are shorter than the vertical line and do not enclose any other shapes.",
+    "image_file": "images/radical_木.png"
+  },
+  {
+    "radical": "氵",
+    "variations": "水，氺",
+    "pinyin": "shui3",
+    "meaning": "water",
+    "examples": [
+      "永泳海洋沙"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: water. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A wavy horizontal line resembling water.\n(2) The component does not enclose any other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A wavy horizontal line resembling water.\n(2) The component does not enclose any other shapes.",
+    "image_file": "images/radical_氵.png"
+  },
+  {
+    "radical": "火",
+    "variations": "灬",
+    "pinyin": "huo3",
+    "meaning": "fire",
+    "examples": [
+      "灯炎焦然炸"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: fire. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) Depiction of a simple flame.\n(2) NOT like \"enclosing other shapes.\". Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) Depiction of a simple flame.\n(2) NOT like \"enclosing other shapes.\"",
+    "image_file": "images/radical_火.png"
+  },
+  {
+    "radical": "纟",
+    "variations": "糸",
+    "pinyin": "(mi4)",
+    "meaning": "silk",
+    "examples": [
+      "纪纸累细绩"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: silk. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A long vertical line with short horizontal lines extending from the sides, resembling a hanging piece of silk. NOT like components with enclosed shapes or standalone openings.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A long vertical line with short horizontal lines extending from the sides, resembling a hanging piece of silk. NOT like components with enclosed shapes or standalone openings.",
+    "image_file": "images/radical_纟.png"
+  },
+  {
+    "radical": "艹",
+    "variations": "艸",
+    "pinyin": "cao3",
+    "meaning": "grass",
+    "examples": [
+      "花英苦草茶"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: grass. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A plant with long, thin leaves.\n(2) NOT like \"encloses other shapes\".. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A plant with long, thin leaves.\n(2) NOT like \"encloses other shapes\".",
+    "image_file": "images/radical_艹.png"
+  },
+  {
+    "radical": "讠",
+    "variations": "言",
+    "pinyin": "yan2",
+    "meaning": "speech",
+    "examples": [
+      "说讲识评试"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: speech. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A person speaking with a large mouth.\n(2) The mouth is open wide, not closed like a box.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A person speaking with a large mouth.\n(2) The mouth is open wide, not closed like a box.",
+    "image_file": "images/radical_讠.png"
+  },
+  {
+    "radical": "辶",
+    "variations": "⻍",
+    "pinyin": "(chuo4)",
+    "meaning": "walk",
+    "examples": [
+      "迎通道这近"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: walk. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A person walking with arms swinging at their sides, with the legs forming a distinct angle and the body leaning slightly forward to show movement. NOT like a standing person or a person with arms raised.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A person walking with arms swinging at their sides, with the legs forming a distinct angle and the body leaning slightly forward to show movement. NOT like a standing person or a person with arms raised.",
+    "image_file": "images/radical_辶.png"
+  },
+  {
+    "radical": "钅",
+    "variations": "金",
+    "pinyin": "jin1",
+    "meaning": "gold, metal",
+    "examples": [
+      "银针钱铁钟"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: gold, metal. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple image of a \"metal\" object with a distinctive curved shape, NOT like a component with straight sides or enclosed shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple image of a \"metal\" object with a distinctive curved shape, NOT like a component with straight sides or enclosed shapes.",
+    "image_file": "images/radical_钅.png"
+  },
+  {
+    "radical": "刂",
+    "variations": "刀",
+    "pinyin": "dao1",
+    "meaning": "knife, sword",
+    "examples": [
+      "分切初利刻"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: knife, sword. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A sharp object resembling a sword with a handle.\n(2) The component does not enclose other shapes within its outline.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A sharp object resembling a sword with a handle.\n(2) The component does not enclose other shapes within its outline.",
+    "image_file": "images/radical_刂.png"
+  },
+  {
+    "radical": "宀",
+    "variations": "",
+    "pinyin": "(mian2)",
+    "meaning": "roof",
+    "examples": [
+      "守家室字宅"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: roof. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple house with a slanted roof, NOT like 亠 which has a horizontal top stroke.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple house with a slanted roof, NOT like 亠 which has a horizontal top stroke.",
+    "image_file": "images/radical_宀.png"
+  },
+  {
+    "radical": "贝",
+    "variations": "",
+    "pinyin": "bei4",
+    "meaning": "shell",
+    "examples": [
+      "财贪货贸员"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: shell. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A shell-like shape with a slit opening at the top edge, NOT like a shape enclosing other forms.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A shell-like shape with a slit opening at the top edge, NOT like a shape enclosing other forms.",
+    "image_file": "images/radical_贝.png"
+  },
+  {
+    "radical": "一",
+    "variations": "",
+    "pinyin": "yi1",
+    "meaning": "one",
+    "examples": [
+      "三旦正百天"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: one. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A horizontal line with a vertical stroke on top, resembling a simple roof shape; NOT like a square enclosing other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A horizontal line with a vertical stroke on top, resembling a simple roof shape; NOT like a square enclosing other shapes.",
+    "image_file": "images/radical_一.png"
+  },
+  {
+    "radical": "力",
+    "variations": "",
+    "pinyin": "li4",
+    "meaning": "power, force",
+    "examples": [
+      "力加助勉男"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: power, force. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: Depicts a person holding a knife upright; NOT like 刀 with a slanted blade.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: Depicts a person holding a knife upright; NOT like 刀 with a slanted blade.",
+    "image_file": "images/radical_力.png"
+  },
+  {
+    "radical": "又",
+    "variations": "",
+    "pinyin": "you4",
+    "meaning": "right hand",
+    "examples": [
+      "反取受左友"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: right hand. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A straight vertical line with a small hook on the right side, NOT like components that enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A straight vertical line with a small hook on the right side, NOT like components that enclose other shapes.",
+    "image_file": "images/radical_又.png"
+  },
+  {
+    "radical": "犭",
+    "variations": "犬",
+    "pinyin": "(quan3)",
+    "meaning": "dog",
+    "examples": [
+      "犯狂狗献猪"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: dog. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple image resembling a dog with a big body. Make sure the top stroke is longer than the bottom stroke to differentiate it from similar-looking components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple image resembling a dog with a big body. Make sure the top stroke is longer than the bottom stroke to differentiate it from similar-looking components.",
+    "image_file": "images/radical_犭.png"
+  },
+  {
+    "radical": "禾",
+    "variations": "",
+    "pinyin": "(he)",
+    "meaning": "grain",
+    "examples": [
+      "利私季和香"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: grain. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A square with a horizontal line through the middle, representing a field of grains. The line does not connect to the sides of the square, unlike similar components like 木.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A square with a horizontal line through the middle, representing a field of grains. The line does not connect to the sides of the square, unlike similar components like 木.",
+    "image_file": "images/radical_禾.png"
+  },
+  {
+    "radical": "⺮",
+    "variations": "竹",
+    "pinyin": "zhu2",
+    "meaning": "bamboo",
+    "examples": [
+      "笑第简筷算"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: bamboo. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple image of a bamboo plant with multiple straight vertical segments, ensuring it does not enclose any other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple image of a bamboo plant with multiple straight vertical segments, ensuring it does not enclose any other shapes.",
+    "image_file": "images/radical_⺮.png"
+  },
+  {
+    "radical": "虫",
+    "variations": "",
+    "pinyin": "chong2",
+    "meaning": "insect",
+    "examples": [
+      "強独蛇蛋蚊"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: insect. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A small creature with legs and antennae, with a distinctive round shape at the top to differentiate from similar-looking components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A small creature with legs and antennae, with a distinctive round shape at the top to differentiate from similar-looking components.",
+    "image_file": "images/radical_虫.png"
+  },
+  {
+    "radical": "阝left",
+    "variations": "阜",
+    "pinyin": "(fu4)",
+    "meaning": "mound, dam",
+    "examples": [
+      "防阻陆院陈"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: mound, dam. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A raised mound of earth or a small dam.\n(2) The component does not enclose any other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A raised mound of earth or a small dam.\n(2) The component does not enclose any other shapes.",
+    "image_file": "images/radical_阝left.png"
+  },
+  {
+    "radical": "大",
+    "variations": "",
+    "pinyin": "da4",
+    "meaning": "big, very",
+    "examples": [
+      "天尖因奇美"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: big, very. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A big square or rectangle.\n(2) Must have straight lines and right angles; NOT like a curved shape or a shape with diagonal lines.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A big square or rectangle.\n(2) Must have straight lines and right angles; NOT like a curved shape or a shape with diagonal lines.",
+    "image_file": "images/radical_大.png"
+  },
+  {
+    "radical": "广",
+    "variations": "",
+    "pinyin": "guang3",
+    "meaning": "house on cliff",
+    "examples": [
+      "店府度座庭"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: house on cliff. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A house on a cliff.\n(2) The component does not enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A house on a cliff.\n(2) The component does not enclose other shapes.",
+    "image_file": "images/radical_广.png"
+  },
+  {
+    "radical": "田",
+    "variations": "",
+    "pinyin": "tian2",
+    "meaning": "field",
+    "examples": [
+      "思留略番累"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: field. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple image of a square divided into four equal parts, with an essential constraint that the lines do not connect to enclose any shapes within the square.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple image of a square divided into four equal parts, with an essential constraint that the lines do not connect to enclose any shapes within the square.",
+    "image_file": "images/radical_田.png"
+  },
+  {
+    "radical": "目",
+    "variations": "罒",
+    "pinyin": "mu4",
+    "meaning": "eye",
+    "examples": [
+      "眼睛看相省"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: eye. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A single eye with a horizontal line underneath, NOT like a closed box shape.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A single eye with a horizontal line underneath, NOT like a closed box shape.",
+    "image_file": "images/radical_目.png"
+  },
+  {
+    "radical": "石",
+    "variations": "",
+    "pinyin": "shi2",
+    "meaning": "stone",
+    "examples": [
+      "砂破碑矿码"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: stone. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple image of a stone with straight, vertical sides, NOT curved like a mountain.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple image of a stone with straight, vertical sides, NOT curved like a mountain.",
+    "image_file": "images/radical_石.png"
+  },
+  {
+    "radical": "衤",
+    "variations": "衣",
+    "pinyin": "yi1",
+    "meaning": "clothes",
+    "examples": [
+      "初被裁裤袜"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: clothes. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A person wearing clothes.\n(2) The clothes are depicted as hanging down and not enclosing the person like a tent.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A person wearing clothes.\n(2) The clothes are depicted as hanging down and not enclosing the person like a tent.",
+    "image_file": "images/radical_衤.png"
+  },
+  {
+    "radical": "足",
+    "variations": "⻊",
+    "pinyin": "zu2",
+    "meaning": "foot",
+    "examples": [
+      "跑跨跟路距"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: foot. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A simple image of a foot.\n(2) Make sure the component does not enclose any other shapes to avoid confusion with similar-looking components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A simple image of a foot.\n(2) Make sure the component does not enclose any other shapes to avoid confusion with similar-looking components.",
+    "image_file": "images/radical_足.png"
+  },
+  {
+    "radical": "马",
+    "variations": "",
+    "pinyin": "ma3",
+    "meaning": "horse",
+    "examples": [
+      "码驾骂驻妈"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: horse. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A horizontal line with two vertical lines on either side, resembling a horse with legs on each side; NOT like a component with a vertical line in the center.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A horizontal line with two vertical lines on either side, resembling a horse with legs on each side; NOT like a component with a vertical line in the center.",
+    "image_file": "images/radical_马.png"
+  },
+  {
+    "radical": "页",
+    "variations": "",
+    "pinyin": "ye4",
+    "meaning": "leaf",
+    "examples": [
+      "顺须领预顶"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: leaf. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A leaf connected to a stem.\n(2) The leaf should have a distinct pointed tip to differentiate it from other components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A leaf connected to a stem.\n(2) The leaf should have a distinct pointed tip to differentiate it from other components.",
+    "image_file": "images/radical_页.png"
+  },
+  {
+    "radical": "巾",
+    "variations": "",
+    "pinyin": "(jin1)",
+    "meaning": "turban, scarf",
+    "examples": [
+      "市布帝帐帽"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: turban, scarf. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A person wearing a turban on their head, with the turban wrapping around the head in a continuous loop. NOT like components that have separate or disconnected elements.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A person wearing a turban on their head, with the turban wrapping around the head in a continuous loop. NOT like components that have separate or disconnected elements.",
+    "image_file": "images/radical_巾.png"
+  },
+  {
+    "radical": "米",
+    "variations": "",
+    "pinyin": "mi3",
+    "meaning": "rice",
+    "examples": [
+      "类粉迷粗糖"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: rice. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A small box with two horizontal lines inside, NOT like components that enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A small box with two horizontal lines inside, NOT like components that enclose other shapes.",
+    "image_file": "images/radical_米.png"
+  },
+  {
+    "radical": "车",
+    "variations": "",
+    "pinyin": "che1",
+    "meaning": "cart, vehicle",
+    "examples": [
+      "轮软军较输"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: cart, vehicle. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A simple image of a box-like structure with wheels attached.\n(2) The cart component has a distinctive opening at the bottom, unlike other components that may look similar but are fully enclosed shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A simple image of a box-like structure with wheels attached.\n(2) The cart component has a distinctive opening at the bottom, unlike other components that may look similar but are fully enclosed shapes.",
+    "image_file": "images/radical_车.png"
+  },
+  {
+    "radical": "八",
+    "variations": "",
+    "pinyin": "ba1",
+    "meaning": "eight",
+    "examples": [
+      "公分趴兵共"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: eight. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A shape resembling a person holding out both arms.\n(2) NOT like 人: The top of the shape is divided into two distinct sections.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A shape resembling a person holding out both arms.\n(2) NOT like 人: The top of the shape is divided into two distinct sections.",
+    "image_file": "images/radical_八.png"
+  },
+  {
+    "radical": "尸",
+    "variations": "",
+    "pinyin": "shi1",
+    "meaning": "corpse",
+    "examples": [
+      "尺局尾居展"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: corpse. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A person lying flat on their back with arms and legs outstretched, NOT like a component with a doorway shape.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A person lying flat on their back with arms and legs outstretched, NOT like a component with a doorway shape.",
+    "image_file": "images/radical_尸.png"
+  },
+  {
+    "radical": "寸",
+    "variations": "",
+    "pinyin": "cun4",
+    "meaning": "thumb, inch",
+    "examples": [
+      "寺尊对射付"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: thumb, inch. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A hand gripping a small object, with the thumb clearly positioned separately and not touching the rest of the fingers.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A hand gripping a small object, with the thumb clearly positioned separately and not touching the rest of the fingers.",
+    "image_file": "images/radical_寸.png"
+  },
+  {
+    "radical": "山",
+    "variations": "",
+    "pinyin": "shan1",
+    "meaning": "mountain",
+    "examples": [
+      "岩岛岁崗岔"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: mountain. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A mountain with a rounded peak.\n(2) The mountain does not enclose any other shapes within its outline.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A mountain with a rounded peak.\n(2) The mountain does not enclose any other shapes within its outline.",
+    "image_file": "images/radical_山.png"
+  },
+  {
+    "radical": "攵",
+    "variations": "攴",
+    "pinyin": "(pu1)",
+    "meaning": "knock, tap",
+    "examples": [
+      "收改攻做政"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: knock, tap. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: Depicts a person tapping with their foot on the ground, emphasizing the movement of the foot and the action of tapping. NOT like 夊 in that it does not show a person walking slowly.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: Depicts a person tapping with their foot on the ground, emphasizing the movement of the foot and the action of tapping. NOT like 夊 in that it does not show a person walking slowly.",
+    "image_file": "images/radical_攵.png"
+  },
+  {
+    "radical": "彳",
+    "variations": "",
+    "pinyin": "(chi2)",
+    "meaning": "(small) step",
+    "examples": [
+      "彼很律微德"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: (small) step. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) Pictograph hint: Depicts a small step taken by a person.  \n(2) Constraint: NOT like 亻; does not enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) Pictograph hint: Depicts a small step taken by a person.  \n(2) Constraint: NOT like 亻; does not enclose other shapes.",
+    "image_file": "images/radical_彳.png"
+  },
+  {
+    "radical": "十",
+    "variations": "",
+    "pinyin": "shi2",
+    "meaning": "ten",
+    "examples": [
+      "什计古叶早"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: ten. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A horizontal line with two vertical lines underneath, representing a 'ten' shape. The top horizontal line is longer than the bottom two vertical lines, preventing confusion with similar components like 'mouth'.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A horizontal line with two vertical lines underneath, representing a 'ten' shape. The top horizontal line is longer than the bottom two vertical lines, preventing confusion with similar components like 'mouth'.",
+    "image_file": "images/radical_十.png"
+  },
+  {
+    "radical": "工",
+    "variations": "",
+    "pinyin": "gong1",
+    "meaning": "work",
+    "examples": [
+      "左江红巧功"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: work. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A person standing upright with arms raised in a gesture of effort, with a clear separation between the head and the arms to avoid confusion with components that enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A person standing upright with arms raised in a gesture of effort, with a clear separation between the head and the arms to avoid confusion with components that enclose other shapes.",
+    "image_file": "images/radical_工.png"
+  },
+  {
+    "radical": "方",
+    "variations": "",
+    "pinyin": "fang1",
+    "meaning": "square, raft",
+    "examples": [
+      "放旅族仿房"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: square, raft. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A square-shaped object with a small square hole in the center.\n(2) The square hole must be small and centered, not taking up too much space within the larger square shape.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A square-shaped object with a small square hole in the center.\n(2) The square hole must be small and centered, not taking up too much space within the larger square shape.",
+    "image_file": "images/radical_方.png"
+  },
+  {
+    "radical": "门",
+    "variations": "",
+    "pinyin": "men2",
+    "meaning": "gate",
+    "examples": [
+      "间闲问闭闻"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: gate. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple image of a gate made of two vertical lines with a horizontal line across the top. The bottom of the gate is open, NOT like the radical for \"door\" which is fully enclosed.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple image of a gate made of two vertical lines with a horizontal line across the top. The bottom of the gate is open, NOT like the radical for \"door\" which is fully enclosed.",
+    "image_file": "images/radical_门.png"
+  },
+  {
+    "radical": "饣",
+    "variations": "食",
+    "pinyin": "shi2",
+    "meaning": "eat, food",
+    "examples": [
+      "饭饿饮馆饱"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: eat, food. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: A pictograph of a mouth open wide to consume food, with a clear distinction that it does not enclose any other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "A pictograph of a mouth open wide to consume food, with a clear distinction that it does not enclose any other shapes.",
+    "image_file": "images/radical_饣.png"
+  },
+  {
+    "radical": "欠",
+    "variations": "",
+    "pinyin": "qian4",
+    "meaning": "lack, yawn",
+    "examples": [
+      "欢欧欲次歌"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: lack, yawn. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A mouth wide open, with a clear separation between the upper and lower parts. NOT like a component that encloses other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A mouth wide open, with a clear separation between the upper and lower parts. NOT like a component that encloses other shapes.",
+    "image_file": "images/radical_欠.png"
+  },
+  {
+    "radical": "儿",
+    "variations": "",
+    "pinyin": "er2",
+    "meaning": "human, legs",
+    "examples": [
+      "元四光兄充"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: human, legs. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A person standing with legs apart.\n(2) The legs are straight and not bent, distinguishing it from similar-looking components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A person standing with legs apart.\n(2) The legs are straight and not bent, distinguishing it from similar-looking components.",
+    "image_file": "images/radical_儿.png"
+  },
+  {
+    "radical": "冫",
+    "variations": "",
+    "pinyin": "bing1",
+    "meaning": "ice",
+    "examples": [
+      "冬冷冻况净"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: ice. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple image of a chunk of ice with a flat bottom to distinguish it from other components that have different shapes or structures.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple image of a chunk of ice with a flat bottom to distinguish it from other components that have different shapes or structures.",
+    "image_file": "images/radical_冫.png"
+  },
+  {
+    "radical": "子",
+    "variations": "",
+    "pinyin": "zi3",
+    "meaning": "child, seed",
+    "examples": [
+      "字学存孩季"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: child, seed. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A small square with a horizontal line inside, representing a child or seed. The bottom of the square is open, NOT like the radical for \"person\".. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A small square with a horizontal line inside, representing a child or seed. The bottom of the square is open, NOT like the radical for \"person\".",
+    "image_file": "images/radical_子.png"
+  },
+  {
+    "radical": "疒",
+    "variations": "",
+    "pinyin": "(ne4)",
+    "meaning": "sickness",
+    "examples": [
+      "病痛疗疯痩"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: sickness. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A person with a hat and a walking stick, but the stick is bent and twisted. NOT like \"straight walking stick\".. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A person with a hat and a walking stick, but the stick is bent and twisted. NOT like \"straight walking stick\".",
+    "image_file": "images/radical_疒.png"
+  },
+  {
+    "radical": "隹",
+    "variations": "",
+    "pinyin": "(zhui1)",
+    "meaning": "(short-tailed) bird",
+    "examples": [
+      "雀集难雅谁"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: (short-tailed) bird. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: A bird with a short tail perched on a horizontal line. The tail should be noticeably shorter than the body to prevent confusion with similar-looking components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "A bird with a short tail perched on a horizontal line. The tail should be noticeably shorter than the body to prevent confusion with similar-looking components.",
+    "image_file": "images/radical_隹.png"
+  },
+  {
+    "radical": "斤",
+    "variations": "",
+    "pinyin": "(jin1)",
+    "meaning": "axe",
+    "examples": [
+      "所新听近析"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: axe. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A sharp tool used for cutting wood, with a straight handle extending downward to differentiate it from components with curved handles.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A sharp tool used for cutting wood, with a straight handle extending downward to differentiate it from components with curved handles.",
+    "image_file": "images/radical_斤.png"
+  },
+  {
+    "radical": "亠",
+    "variations": "",
+    "pinyin": "(tou2)",
+    "meaning": "lid",
+    "examples": [
+      "亡交京"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: lid. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A shape resembling a \"lid\" with a rounded top edge, NOT like 冖, which has a sharp top edge.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A shape resembling a \"lid\" with a rounded top edge, NOT like 冖, which has a sharp top edge.",
+    "image_file": "images/radical_亠.png"
+  },
+  {
+    "radical": "王",
+    "variations": "玉",
+    "pinyin": "yu4, wang2",
+    "meaning": "jade, king",
+    "examples": [
+      "主弄皇理现"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: jade, king. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple crown shape with a curved bottom edge, NOT like a full circle.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple crown shape with a curved bottom edge, NOT like a full circle.",
+    "image_file": "images/radical_王.png"
+  },
+  {
+    "radical": "白",
+    "variations": "",
+    "pinyin": "bai2",
+    "meaning": "white",
+    "examples": [
+      "的皆皇怕迫"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: white. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A simple image of a flat, horizontal line.\n(2) Ensure the line is not enclosed by any other shapes to differentiate it from similar-looking components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A simple image of a flat, horizontal line.\n(2) Ensure the line is not enclosed by any other shapes to differentiate it from similar-looking components.",
+    "image_file": "images/radical_白.png"
+  },
+  {
+    "radical": "立",
+    "variations": "",
+    "pinyin": "li4",
+    "meaning": "stand, erect",
+    "examples": [
+      "音意端亲位"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: stand, erect. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A vertical line with a horizontal line intersecting near the top, NOT like components with additional horizontal lines.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A vertical line with a horizontal line intersecting near the top, NOT like components with additional horizontal lines.",
+    "image_file": "images/radical_立.png"
+  },
+  {
+    "radical": "羊",
+    "variations": "⺶，⺷",
+    "pinyin": "yang2",
+    "meaning": "sheep",
+    "examples": [
+      "着样洋美鲜"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: sheep. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A fluffy animal with horns.\n(2) The horns are curved and point outward, not upward.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A fluffy animal with horns.\n(2) The horns are curved and point outward, not upward.",
+    "image_file": "images/radical_羊.png"
+  },
+  {
+    "radical": "艮",
+    "variations": "",
+    "pinyin": "(gen4)",
+    "meaning": "stopping",
+    "examples": [
+      "很恨恳根眼"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: stopping. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A horizontal line with a vertical line crossing it, resembling a gate with a bar preventing entry. NOT like components with a diagonal stroke or additional horizontal lines.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A horizontal line with a vertical line crossing it, resembling a gate with a bar preventing entry. NOT like components with a diagonal stroke or additional horizontal lines.",
+    "image_file": "images/radical_艮.png"
+  },
+  {
+    "radical": "冖",
+    "variations": "",
+    "pinyin": "(mi4)",
+    "meaning": "cover",
+    "examples": [
+      "写军农深荣"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: cover. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A horizontal line covering a square shape, with the square shape completely enclosed within the horizontal line. (NOT like 一). Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A horizontal line covering a square shape, with the square shape completely enclosed within the horizontal line. (NOT like 一)",
+    "image_file": "images/radical_冖.png"
+  },
+  {
+    "radical": "厂",
+    "variations": "",
+    "pinyin": "(han4)",
+    "meaning": "cliff",
+    "examples": [
+      "厚原厉厅厕"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: cliff. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A cliff with a protruding ledge.\n(2) The cliff component does not enclose any shapes within its outline.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A cliff with a protruding ledge.\n(2) The cliff component does not enclose any shapes within its outline.",
+    "image_file": "images/radical_厂.png"
+  },
+  {
+    "radical": "皿",
+    "variations": "",
+    "pinyin": "(min3)",
+    "meaning": "dish",
+    "examples": [
+      "盆监盟盛盖"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: dish. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple image of a 'dish' with a distinguishable short vertical line near the bottom edge to differentiate it from similar-looking components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple image of a 'dish' with a distinguishable short vertical line near the bottom edge to differentiate it from similar-looking components.",
+    "image_file": "images/radical_皿.png"
+  },
+  {
+    "radical": "礻",
+    "variations": "示",
+    "pinyin": "shi4",
+    "meaning": "sign, spirit, show",
+    "examples": [
+      "社神视祝祥"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: sign, spirit, show. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A person standing with arms raised in a gesture of showing or signaling.\n(2) The arms are raised above the head, distinguishing it from similar components that have arms at the sides.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A person standing with arms raised in a gesture of showing or signaling.\n(2) The arms are raised above the head, distinguishing it from similar components that have arms at the sides.",
+    "image_file": "images/radical_礻.png"
+  },
+  {
+    "radical": "穴",
+    "variations": "",
+    "pinyin": "xue4",
+    "meaning": "cave",
+    "examples": [
+      "空突穷究窗"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: cave. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A simple rectangular structure resembling an entrance or opening to a cave.\n(2) The top and bottom edges are straight and parallel to each other, distinguishing it from components with curved or slanted edges.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A simple rectangular structure resembling an entrance or opening to a cave.\n(2) The top and bottom edges are straight and parallel to each other, distinguishing it from components with curved or slanted edges.",
+    "image_file": "images/radical_穴.png"
+  },
+  {
+    "radical": "走",
+    "variations": "",
+    "pinyin": "zou3",
+    "meaning": "run, walk",
+    "examples": [
+      "起超越赶徒"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: run, walk. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A person with arms outstretched running, with a distinct horizontal line at the bottom to indicate the ground, NOT like components with vertical lines or enclosed shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A person with arms outstretched running, with a distinct horizontal line at the bottom to indicate the ground, NOT like components with vertical lines or enclosed shapes.",
+    "image_file": "images/radical_走.png"
+  },
+  {
+    "radical": "雨",
+    "variations": "",
+    "pinyin": "yu3",
+    "meaning": "rain",
+    "examples": [
+      "雷雪霜需露"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: rain. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A squiggly line resembling falling raindrops, with a clear separation between the top and bottom sections, NOT like components that enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A squiggly line resembling falling raindrops, with a clear separation between the top and bottom sections, NOT like components that enclose other shapes.",
+    "image_file": "images/radical_雨.png"
+  },
+  {
+    "radical": "囗",
+    "variations": "",
+    "pinyin": "(wei2)",
+    "meaning": "enclosure",
+    "examples": [
+      "回国因图团"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: enclosure. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: An enclosure surrounding other components, NOT like 口 which means mouth and does not enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: An enclosure surrounding other components, NOT like 口 which means mouth and does not enclose other shapes.",
+    "image_file": "images/radical_囗.png"
+  },
+  {
+    "radical": "小",
+    "variations": "⺌⺍",
+    "pinyin": "xiao3",
+    "meaning": "small",
+    "examples": [
+      "少肖尚尖尘"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: small. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A small horizontal line with a vertical line attached at one end, resembling a lowercase letter \"t\", with the vertical line shorter than the horizontal line. NOT like a similar component with a longer vertical line.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A small horizontal line with a vertical line attached at one end, resembling a lowercase letter \"t\", with the vertical line shorter than the horizontal line. NOT like a similar component with a longer vertical line.",
+    "image_file": "images/radical_小.png"
+  },
+  {
+    "radical": "戈",
+    "variations": "",
+    "pinyin": "(ge1)",
+    "meaning": "halberd",
+    "examples": [
+      "成式战感我"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: halberd. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A weapon with a blade and a long handle.\n(2) The blade is positioned at the top of the component, not in the middle or at the bottom.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A weapon with a blade and a long handle.\n(2) The blade is positioned at the top of the component, not in the middle or at the bottom.",
+    "image_file": "images/radical_戈.png"
+  },
+  {
+    "radical": "几",
+    "variations": "",
+    "pinyin": "ji1",
+    "meaning": "table",
+    "examples": [
+      "朵机风凡凤"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: table. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A horizontal line with two vertical lines underneath, representing a table. The bottom two lines are longer and not connected at the ends, distinguishing it from components with enclosed shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A horizontal line with two vertical lines underneath, representing a table. The bottom two lines are longer and not connected at the ends, distinguishing it from components with enclosed shapes.",
+    "image_file": "images/radical_几.png"
+  },
+  {
+    "radical": "舌",
+    "variations": "",
+    "pinyin": "she2",
+    "meaning": "tongue",
+    "examples": [
+      "乱适话舍活"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: tongue. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A mouth with a straight line across the top edge to show it is closed, NOT like a box shape.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A mouth with a straight line across the top edge to show it is closed, NOT like a box shape.",
+    "image_file": "images/radical_舌.png"
+  },
+  {
+    "radical": "干",
+    "variations": "",
+    "pinyin": "gan1",
+    "meaning": "dry",
+    "examples": [
+      "平刊汗旱赶"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: dry. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A horizontal line with four short vertical lines below it, resembling a drying rack. NOT like components with a standalone opening.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A horizontal line with four short vertical lines below it, resembling a drying rack. NOT like components with a standalone opening.",
+    "image_file": "images/radical_干.png"
+  },
+  {
+    "radical": "殳",
+    "variations": "",
+    "pinyin": "(shu1)",
+    "meaning": "weapon",
+    "examples": [
+      "段没投般设"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: weapon. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A strong, straight object like a knife.\n(2) Does not enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A strong, straight object like a knife.\n(2) Does not enclose other shapes.",
+    "image_file": "images/radical_殳.png"
+  },
+  {
+    "radical": "夕",
+    "variations": "",
+    "pinyin": "xi1",
+    "meaning": "evening, sunset",
+    "examples": [
+      "外多夜名岁"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: evening, sunset. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A sun setting behind a mountain, with the bottom stroke longer than the top stroke to distinguish it from similar components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A sun setting behind a mountain, with the bottom stroke longer than the top stroke to distinguish it from similar components.",
+    "image_file": "images/radical_夕.png"
+  },
+  {
+    "radical": "止",
+    "variations": "",
+    "pinyin": "zhi3",
+    "meaning": "stop",
+    "examples": [
+      "正此步歪址"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: stop. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A horizontal line with two short vertical lines on either end.\n(2) The horizontal line is longer than the vertical lines, preventing confusion with components where the vertical lines are longer.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A horizontal line with two short vertical lines on either end.\n(2) The horizontal line is longer than the vertical lines, preventing confusion with components where the vertical lines are longer.",
+    "image_file": "images/radical_止.png"
+  },
+  {
+    "radical": "牜",
+    "variations": "牛，⺧",
+    "pinyin": "niu2",
+    "meaning": "cow",
+    "examples": [
+      "告物解特件"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: cow. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A horizontal line with two short vertical lines on each end, resembling the profile of a cow's head, with an essential gap between the horizontal line and the vertical lines to distinguish it from similar components like 日.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A horizontal line with two short vertical lines on each end, resembling the profile of a cow's head, with an essential gap between the horizontal line and the vertical lines to distinguish it from similar components like 日.",
+    "image_file": "images/radical_牜.png"
+  },
+  {
+    "radical": "皮",
+    "variations": "",
+    "pinyin": "pi2",
+    "meaning": "skin",
+    "examples": [
+      "披彼波破疲"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: skin. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: Depicts a simple image of 'skin' with a boundary that is NOT like a 'box' shape.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: Depicts a simple image of 'skin' with a boundary that is NOT like a 'box' shape.",
+    "image_file": "images/radical_皮.png"
+  },
+  {
+    "radical": "耳",
+    "variations": "",
+    "pinyin": "er3",
+    "meaning": "ear",
+    "examples": [
+      "取闻职聪联"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: ear. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A curved shape resembling the outer contour of an ear, with no additional interior marks to differentiate it from similar-looking components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A curved shape resembling the outer contour of an ear, with no additional interior marks to differentiate it from similar-looking components.",
+    "image_file": "images/radical_耳.png"
+  },
+  {
+    "radical": "辛",
+    "variations": "",
+    "pinyin": "xin1",
+    "meaning": "bitter",
+    "examples": [
+      "辜辟辣辨辩"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: bitter. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A plant with a bitter taste.\n(2) Plant does not enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A plant with a bitter taste.\n(2) Plant does not enclose other shapes.",
+    "image_file": "images/radical_辛.png"
+  },
+  {
+    "radical": "阝right",
+    "variations": "邑",
+    "pinyin": "(yi4)",
+    "meaning": "city",
+    "examples": [
+      "那邦部都邮"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: city. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A square enclosure with a horizontal line at the bottom.\n(2) The enclosure is open at the top.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A square enclosure with a horizontal line at the bottom.\n(2) The enclosure is open at the top.",
+    "image_file": "images/radical_阝right.png"
+  },
+  {
+    "radical": "酉",
+    "variations": "",
+    "pinyin": "(you3)",
+    "meaning": "wine",
+    "examples": [
+      "醉酒醒酸尊"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: wine. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A vessel for wine with a distinct horizontal line at the top to differentiate it from similar components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A vessel for wine with a distinct horizontal line at the top to differentiate it from similar components.",
+    "image_file": "images/radical_酉.png"
+  },
+  {
+    "radical": "青",
+    "variations": "",
+    "pinyin": "qing1",
+    "meaning": "green/blue",
+    "examples": [
+      "请清情晴猜"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: green/blue. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) Originally depicted a plant or tree.\n(2) Must have an enclosure or boundary around the top and right side.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) Originally depicted a plant or tree.\n(2) Must have an enclosure or boundary around the top and right side.",
+    "image_file": "images/radical_青.png"
+  },
+  {
+    "radical": "鸟",
+    "variations": "",
+    "pinyin": "niao3",
+    "meaning": "bird",
+    "examples": [
+      "鸦鸣鸭岛鸡"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: bird. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A bird flying with its wings spread wide, ensuring that the wings are not touching or overlapping each other.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A bird flying with its wings spread wide, ensuring that the wings are not touching or overlapping each other.",
+    "image_file": "images/radical_鸟.png"
+  },
+  {
+    "radical": "弓",
+    "variations": "",
+    "pinyin": "gong1",
+    "meaning": "bow",
+    "examples": [
+      "引张弱第强"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: bow. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A curved shape resembling a bow with a straight line attached to one end, NOT like a component that encloses other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A curved shape resembling a bow with a straight line attached to one end, NOT like a component that encloses other shapes.",
+    "image_file": "images/radical_弓.png"
+  },
+  {
+    "radical": "厶",
+    "variations": "",
+    "pinyin": "si1",
+    "meaning": "private",
+    "examples": [
+      "公勾去私云"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: private. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple image of a \"door\" with a horizontal stroke across the top to indicate \"private\"; NOT like a component with a vertical stroke across the top.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple image of a \"door\" with a horizontal stroke across the top to indicate \"private\"; NOT like a component with a vertical stroke across the top.",
+    "image_file": "images/radical_厶.png"
+  },
+  {
+    "radical": "户",
+    "variations": "戶",
+    "pinyin": "hu4",
+    "meaning": "door, house",
+    "examples": [
+      "所房炉护启"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: door, house. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Simplest original image: A horizontal line with a vertical line attached to its left side.\n\nConstraint to prevent confusion: The vertical line is shorter than the horizontal line and does not enclose any other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Simplest original image: A horizontal line with a vertical line attached to its left side.\n\nConstraint to prevent confusion: The vertical line is shorter than the horizontal line and does not enclose any other shapes.",
+    "image_file": "images/radical_户.png"
+  },
+  {
+    "radical": "羽",
+    "variations": "",
+    "pinyin": "yu3",
+    "meaning": "feather",
+    "examples": [
+      "习翻翅塌扇"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: feather. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A feather with a straight, vertical line running through its center. NOT like components with standalone openings.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A feather with a straight, vertical line running through its center. NOT like components with standalone openings.",
+    "image_file": "images/radical_羽.png"
+  },
+  {
+    "radical": "舟",
+    "variations": "",
+    "pinyin": "chuan2",
+    "meaning": "boat",
+    "examples": [
+      "般船航盘艇"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: boat. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A boat floating on water, distinguished by having a curved bottom that does not enclose other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A boat floating on water, distinguished by having a curved bottom that does not enclose other shapes.",
+    "image_file": "images/radical_舟.png"
+  },
+  {
+    "radical": "里",
+    "variations": "",
+    "pinyin": "li3",
+    "meaning": "village, mile",
+    "examples": [
+      "野重量理埋"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: village, mile. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A small square with a horizontal line inside, NOT like a similar component with a diagonal line inside.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A small square with a horizontal line inside, NOT like a similar component with a diagonal line inside.",
+    "image_file": "images/radical_里.png"
+  },
+  {
+    "radical": "匕",
+    "variations": "",
+    "pinyin": "(bi3)",
+    "meaning": "spoon",
+    "examples": [
+      "匙比北呢旨"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: spoon. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A small bowl with a handle, NOT like a square enclosing other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A small bowl with a handle, NOT like a square enclosing other shapes.",
+    "image_file": "images/radical_匕.png"
+  },
+  {
+    "radical": "夂",
+    "variations": "",
+    "pinyin": "(sui1)",
+    "meaning": "go (slowly)",
+    "examples": [
+      "各條复备夏"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: go (slowly). Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A person with arms extended slowly walking, with a rounded bottom that does not enclose other shapes. NOT like 攵.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A person with arms extended slowly walking, with a rounded bottom that does not enclose other shapes. NOT like 攵.",
+    "image_file": "images/radical_夂.png"
+  },
+  {
+    "radical": "见",
+    "variations": "",
+    "pinyin": "jian4",
+    "meaning": "see",
+    "examples": [
+      "观规视现觉"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: see. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A person looking at a shell.\n(2) The shell is not completely enclosed within any other shape.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A person looking at a shell.\n(2) The shell is not completely enclosed within any other shape.",
+    "image_file": "images/radical_见.png"
+  },
+  {
+    "radical": "卩",
+    "variations": "",
+    "pinyin": "(jie2)",
+    "meaning": "seal",
+    "examples": [
+      "卷印却即危"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: seal. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A square with a small square in the center, NOT like a square with a horizontal line across the center.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A square with a small square in the center, NOT like a square with a horizontal line across the center.",
+    "image_file": "images/radical_卩.png"
+  },
+  {
+    "radical": "罒",
+    "variations": "网",
+    "pinyin": "wang3",
+    "meaning": "net",
+    "examples": [
+      "罗罚罢罪罩"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: net. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A simple image of a net with horizontal lines. Ensure the net does not enclose any shapes to avoid confusion with similar-looking components.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A simple image of a net with horizontal lines. Ensure the net does not enclose any shapes to avoid confusion with similar-looking components.",
+    "image_file": "images/radical_罒.png"
+  },
+  {
+    "radical": "士",
+    "variations": "",
+    "pinyin": "shi4",
+    "meaning": "scholar",
+    "examples": [
+      "吉壶志声壮"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: scholar. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: Pictograph hint: A person standing upright with arms by their side, NOT like 土 which encloses other shapes.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "Pictograph hint: A person standing upright with arms by their side, NOT like 土 which encloses other shapes.",
+    "image_file": "images/radical_士.png"
+  },
+  {
+    "radical": "勹",
+    "variations": "",
+    "pinyin": "(bao1)",
+    "meaning": "embrace, wrap",
+    "examples": [
+      "包勿勾勺勻"
+    ],
+    "art_prompt": "Create a single, clean illustration representing ONLY this meaning: embrace, wrap. Depict one subject only, centered, with lots of empty space on a plain off-white background. Add subtle visual interest using line weight variation and light paper texture, but keep it minimal. Important shape constraint: compose the subject’s silhouette and/or negative space to echo this pictograph idea: (1) A person holding and embracing a child in their arms.\n(2) The component does not enclose any other shapes; it is an open embrace.. Do NOT draw the Chinese character or any text. Do NOT include any written language or symbols of any kind: no characters, no words, no numbers, no labels, no logos, no stamps, no watermarks. No signage/iconography: no symbols, no UI elements, no icon sets, no side icons. NOT an infographic, NOT a diagram, NOT a poster, NOT a collage, NOT a character sheet. No extra objects, no borders, no frames, no patterns, no background scenes.",
+    "disambiguation_note": "",
+    "pictograph_hint": "(1) A person holding and embracing a child in their arms.\n(2) The component does not enclose any other shapes; it is an open embrace.",
+    "image_file": "images/radical_勹.png"
+  }
+]

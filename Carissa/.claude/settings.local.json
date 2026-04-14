@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip3 show:*)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); keys=list\\(d.keys\\(\\)\\)[:5]; print\\(keys\\); print\\(json.dumps\\(d[keys[0]], indent=2\\)\\)\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(type\\(d\\)\\); print\\(json.dumps\\(d[0], indent=2\\) if isinstance\\(d, list\\) else list\\(d.keys\\(\\)\\)[:5]\\)\")",
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)",
+      "Bash(pnpm exec:*)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(echo \"no docs dir\" ls /Users/blue/Development/Carissa/chinese-radical/node_modules/.pnpm/next@16.2.3_*/node_modules/next/dist/docs/)"
+    ]
+  }
+}
